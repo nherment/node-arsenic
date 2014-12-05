@@ -1,0 +1,24 @@
+{
+  "name": "arsenic",
+  "version": "0.1.0",
+  "description": "consensus library to synchronize data between your node processes",
+  "main": "arsenic.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nherment/node-arsenic.git"
+  },
+  "keywords": [
+    "raft",
+    "consensus",
+    "distributed"
+  ],
+  "author": "Nicolas Herment <nherment@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nherment/node-arsenic/issues"
+  },
+  "homepage": "https://github.com/nherment/node-arsenic"
+}
